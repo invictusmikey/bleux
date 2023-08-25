@@ -120,7 +120,7 @@ h2 {
     align-items: flex-start;
     width: 50vw;
     height: 60vh;
-    background-image: url(/images/hojasFondo.jpg);
+    background-image: url(images/hojasFondo.jpg);
     background-size: cover;
 }
 
